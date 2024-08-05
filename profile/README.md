@@ -35,7 +35,7 @@ Here's a brief guide to the repositories and what's inside.
 - [jdemetra-core](https://github.com/jdemetra/jdemetra-core): core libraries
 - [jdemetra-app](https://github.com/jdemetra/jdemetra-app): desktop application
 - [jwsacruncher](https://github.com/jdemetra/jwsacruncher): tool that re-estimates a workspace multiprocessing
-- [rjdemetra](https://github.com/jdemetra/rjdemetra): R interface
+- [rjdemetra](https://github.com/rjdverse/rjdemetra): R interface
 
 ## External repositories
 
