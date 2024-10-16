@@ -6,7 +6,7 @@
 [[Documentation]](https://jdemetra-new-documentation.netlify.app/) | 
 [[Blog]](https://jdemetra-universe-blog.netlify.app/)
 
-Since 2015, JDemetra+ has been [officially recommended](https://ec.europa.eu/eurostat/cros/system/files/Jdemetra_%20release.pdf) to the members of the ESS and the European System of Central Banks as the software for seasonal and calendar adjustment of official statistics.
+Since 2015, JDemetra+ has been [officially recommended](https://ec.europa.eu/eurostat/web/products-manuals-and-guidelines/w/ess-guidelines-on-seasonal-adjustment-2024-edition) to the members of the ESS and the European System of Central Banks as the software for seasonal and calendar adjustment of official statistics.
 
 JDemetra+ implements the concepts and algorithms used in the two leading SA methods: TRAMO/SEATS and X-12ARIMA. These methods have been re-engineered using an object-oriented approach, which makes them easier to use, extend and modify.
 
