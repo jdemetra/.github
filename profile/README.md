@@ -2,9 +2,10 @@
 
 **JDemetra+ is a seasonal adjustment and time series analysis tool** developed by the National Bank of Belgium in collaboration with the Deutsche Bundesbank, Insee and Eurostat in accordance with the [Guidelines of the European Statistical System](https://ec.europa.eu/eurostat/en/web/products-manuals-and-guidelines/w/ks-gq-24-012) (ESS).
 
-[[R packages]](https://github.com/rjdverse) | 
-[[Documentation]](https://jdemetra-new-documentation.netlify.app/) | 
-[[Blog]](https://jdemetra-universe-blog.netlify.app/)
+[![Static Badge](https://img.shields.io/badge/Desktop_application-8A2BE2)](https://github.com/jdemetra/jdplus-main/releases/latest)
+[![Static Badge](https://img.shields.io/badge/R_packages-8A2BE2)](https://github.com/rjdverse)
+[![Static Badge](https://img.shields.io/badge/Documentation-8A2BE2)](https://jdemetra-new-documentation.netlify.app/)
+[![Static Badge](https://img.shields.io/badge/Blog-8A2BE2)](https://jdemetra-universe-blog.netlify.app/)
 
 Since 2015, JDemetra+ has been [officially recommended](https://github.com/user-attachments/files/17409112/2015-01-21.Jdemetra%2B.release.pdf) to the members of the ESS and the European System of Central Banks as the software for seasonal and calendar adjustment of official statistics.
 
