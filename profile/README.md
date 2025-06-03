@@ -15,7 +15,7 @@ In addition to seasonal adjustment, JDemetra+ bundles other time series models u
 
 Version 3 offers enhanced seasonal adjustment and trend estimation capabilities, including for high frequency data.
 
-Technically, JDemetra+ is a collection of reusable and extensible Java components, easily accessed through a rich graphical interface. The software is Free and Open Source Software (FOSS) developed under the EUPL licence.
+Technically, JDemetra+ is a collection of reusable and extensible Java components, easily accessed through a rich graphical interface. The software is Free and Open Source Software (FOSS) developed under the [EUPL licence](https://interoperable-europe.ec.europa.eu/collection/eupl/eupl-text-eupl-12).
 
 ## Repository index
 
