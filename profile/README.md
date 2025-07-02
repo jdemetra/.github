@@ -18,7 +18,8 @@ Version 3 offers enhanced seasonal adjustment and trend estimation capabilities,
 Technically, JDemetra+ is a collection of reusable and extensible Java components, easily accessed through a rich graphical interface. The software is Free and Open Source Software (FOSS) developed under the [EUPL licence](https://interoperable-europe.ec.europa.eu/collection/eupl/eupl-text-eupl-12).
 
 > [!IMPORTANT]
-> JDemetra+ v3 is under active development and improvement, while v2 is in maintenance mode. The v3 has all the features of v2, and it can use v2 workspaces. However, note that the opposite is not true: once a v2 workspace is modified by v3, v2 cannot read it anymore.
+> JDemetra+ v3 is under active development and improvement, while v2 is in maintenance mode. The v3 has all the features of v2, and it can use v2 workspaces. However, note that the opposite is not true: once a v2 workspace is modified by v3, v2 cannot read it anymore.  
+> v2 will reach its end of life in December 2026, which coincides with the end of Java 8's official support.
 
 ## Repository index
 
