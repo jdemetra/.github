@@ -4,8 +4,8 @@
 
 [![Static Badge](https://img.shields.io/badge/Desktop_application-8A2BE2)](https://github.com/jdemetra/jdplus-main/releases/latest)
 [![Static Badge](https://img.shields.io/badge/R_packages-8A2BE2)](https://github.com/rjdverse)
-[![Static Badge](https://img.shields.io/badge/Documentation-8A2BE2)](https://jdemetra-new-documentation.netlify.app/)
-[![Static Badge](https://img.shields.io/badge/Blog-8A2BE2)](https://jdemetra-universe-blog.netlify.app/)
+[![Static Badge](https://img.shields.io/badge/Documentation-8A2BE2)](https://doc.jdemetra.org)
+[![Static Badge](https://img.shields.io/badge/Blog-8A2BE2)](https://blog.jdemetra.org)
 
 Since 2015, JDemetra+ has been [officially recommended](https://github.com/user-attachments/files/17409112/2015-01-21.Jdemetra%2B.release.pdf) to the members of the ESS and the European System of Central Banks as the software for seasonal and calendar adjustment of official statistics.
 
@@ -20,6 +20,8 @@ Technically, JDemetra+ is a collection of reusable and extensible Java component
 > [!IMPORTANT]
 > **JDemetra+ v3 is under active development and improvement, while v2 is in maintenance mode.** The v3 has all the features of v2, and it can use v2 workspaces. However, note that the opposite is not true: once a v2 workspace is modified by v3, v2 cannot read it anymore. 
 > **JDemetra+ v2 will reach its end of life in December 2026**, which coincides with the end of Java 8's official support.
+
+![eu_co_funded](https://ec.europa.eu/regional_policy/images/information-sources/logo-download-center/eu_co_funded_en.jpg)
 
 ## Repository index
 
